@@ -1,5 +1,7 @@
 # purescript-properties
 
+[![Latest release](http://img.shields.io/github/release/Risto-Stevcev/purescript-properties.svg)](https://github.com/Risto-Stevcev/purescript-properties/releases)
+
 A set of generic predicates for testing algebraic properties
 
 This library provides a generic set of predicates to help test that 
@@ -9,6 +11,16 @@ generic so that it can be used with a wide variety of tools such as
 [purescript-strongcheck][3], and [purescript-jack][4].
 
 See the [unit tests][5] for example usage
+
+## Installation
+
+```
+bower install purescript-properties
+```
+
+## Documentation
+
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-properties).
 
 [0]: https://github.com/bodil/purescript-test-unit
 [1]: https://github.com/owickstrom/purescript-spec
